@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this repository, the data of various schools within a district will be analyzed in order to assist in important decision making in realtion to budget as well as uncover trends in the data. This data was analyzed with pandas using Jupyter Notbook. 
+In this repository, the data of various schools within a district will be analyzed in order to assist in important decision making in relation to budget as well as uncover trends in the data. This data was analyzed with pandas using Jupyter Notebook. 
 
 ## Analysis
 
