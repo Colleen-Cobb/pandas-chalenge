@@ -12,11 +12,11 @@ The utilization of Jupyter Notebook in this project allows the viewer to determi
 ## Results
 ### Snapshot of School Scores
 
-![](./images/schools_scores.png)  
+![](Images/schools_scores.png)  
 
 ### Top Performing Schools
 
-![](./images/top_performing.png)
+![](Images/top_performing.png)
 
 ### Bottom Performing Schools
-![](./images/bottom_perfroming.png)  
+![](Images/bottom_perfroming.png)  
